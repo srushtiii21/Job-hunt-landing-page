@@ -1,0 +1,29 @@
+[
+    {
+      "id":1,
+      "name":"Explore Projects",
+      "title":"Select an online projects from home and apply for free from all over the World.",
+      "image":"searchbar.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Get Hired",
+        "title":"With Prilans, you can work at home and tap into a global network of work.",
+        "image":"suitcase.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"Start Work",
+        "title":"We makes it easy to connect you with popular employers and begin doing work from home.",
+        "image":"computer.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Collect Earnings",
+        "title":"Choose a payment method that works best for you, from PayPal to wire transfer and more.",
+        "image":"dollar.jpg"
+    }
+]
